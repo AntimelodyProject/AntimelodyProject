@@ -177,7 +177,7 @@ footer-hover-col: "#0085A1"
 #cloudflare_analytics: ""
 
 # Google Tag Manager ID
-gtm: "P229F82H"
+gtm: "GTM-P229F82H"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
